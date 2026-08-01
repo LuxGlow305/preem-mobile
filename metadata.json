@@ -1,0 +1,6 @@
+{
+  "name": "Apple Store Inventory & Cost Analytics",
+  "description": "Mobile-optimized Apple Store inventory management system with real-time analytics, carrying cost optimization, and AI stock insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
